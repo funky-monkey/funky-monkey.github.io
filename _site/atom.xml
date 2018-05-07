@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>A life less complex</title>
- <link href="/atom.xml" rel="self"/>
- <link href="/"/>
- <updated>2018-05-07T15:46:16+02:00</updated>
- <id></id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2018-05-07T16:01:22+02:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>☕️ + 🍅 + 📅 = Starting my day productive</title>
-   <link href="/2018/05/07/starting-productive.html"/>
+   <link href="http://localhost:4000/2018/05/07/starting-productive.html"/>
    <updated>2018-05-07T00:00:00+02:00</updated>
-   <id>/2018/05/07/starting-productive</id>
+   <id>http://localhost:4000/2018/05/07/starting-productive</id>
    <content type="html">&lt;p&gt;My mom used to tell me “Empty room, empty head”. But since our house was quite the opposite I guess I took that advice with a grain of salt when I was growing up. Recently I watched a documentary about people who call them selfes ‘minimalists’.&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/0Co1Iptd4p4?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -27,9 +27,9 @@
  
  <entry>
    <title>Learn to focus</title>
-   <link href="/2015/11/16/learn-to-focus.html"/>
+   <link href="http://localhost:4000/2015/11/16/learn-to-focus.html"/>
    <updated>2015-11-16T00:00:00+01:00</updated>
-   <id>/2015/11/16/learn-to-focus</id>
+   <id>http://localhost:4000/2015/11/16/learn-to-focus</id>
    <content type="html">&lt;p&gt;One of my code mentors always put emphasis on the words “&lt;em&gt;focus on one thing&lt;/em&gt;”. These words still echo in my mind daily. Focusing on one Thing™ and doing it until it’s done makes you perform the task faster and better. Also the satisfaction you get after completing a Thing™ is much higher.&lt;/p&gt;
 
 &lt;p&gt;During my day job I have to be organized. I’m a programmer I can build houses from the bottom up in my mind. With garages and a tree house next to it. But my gift of having ADD sometimes (read: a lot) prevents me finishing stuff the same day due to distractions - internet, emails, calls, messages, links to dancing cats (&lt;em&gt;“Oh it’s sooo cute - and there is another one and another and another!&lt;/em&gt;“ &amp;lt;click&amp;gt;&amp;lt;click&amp;gt;&amp;lt;click&amp;gt;).&lt;/p&gt;
@@ -64,9 +64,9 @@
  
  <entry>
    <title>What my 6 day old son taught me about doing single tasking and preparation</title>
-   <link href="/2015/04/16/6-day-old-son-lessons.html"/>
+   <link href="http://localhost:4000/2015/04/16/6-day-old-son-lessons.html"/>
    <updated>2015-04-16T00:00:00+02:00</updated>
-   <id>/2015/04/16/6-day-old-son-lessons</id>
+   <id>http://localhost:4000/2015/04/16/6-day-old-son-lessons</id>
    <content type="html">&lt;p&gt;Recently I became a father. A life altering experience to say the least. But yet a lot stays the same. At the time of writing my newborn is 6 days old. &lt;em&gt;At the time publishing my son is now 6 months old&lt;/em&gt;. And yet, with his inability to actually speak and only communicate with his body, he taught me a very valuable lesson.&lt;/p&gt;
 
 &lt;p&gt;Having to wake up in the middle of the night you really have to focus on everything you do and you have to do it right. It all starts with the preparation: Placing diapers, wet wipes and fresh clothes on the dresser, taking him out of bed, undress, clean, change diaper and put him in fresh clothes if they smell funny or he puked on them. Every night the same pattern again and again.&lt;/p&gt;
@@ -104,9 +104,9 @@ against something, dropping his head causing whiplash, basically because he is s
  
  <entry>
    <title>My brain is different</title>
-   <link href="/2015/04/12/my-brain-is-different.html"/>
+   <link href="http://localhost:4000/2015/04/12/my-brain-is-different.html"/>
    <updated>2015-04-12T00:00:00+02:00</updated>
-   <id>/2015/04/12/my-brain-is-different</id>
+   <id>http://localhost:4000/2015/04/12/my-brain-is-different</id>
    <content type="html">&lt;p&gt;Do you know what the difference is between you and me?
 The left brainimage is me, the right brainimage is you. Your brains are blue and yellow, mine is red and green.&lt;/p&gt;
 
