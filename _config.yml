@@ -12,7 +12,7 @@ twitter_username: sidneydekoning
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-kagami
+remote_theme: jekyll-theme-kagami
 exclude:
   - Gemfile
   - Gemfile.lock
