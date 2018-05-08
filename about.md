@@ -9,8 +9,4 @@ navlevel: header
 navtitle: about
 ---
 
-_{{site.title}}_ is my journey to declutter my mind, body and house. To learn about this
-
-The theme was firstly designed for <https://banana.moe> in late 2016 and have it's first release in March 2017 with a whole bunch of big changes in both design and implementation.
-
-Visit [project home](https://github.com/kamikat/jekyll-theme-kagami) for source code and installation guides.
+_{{site.title}}_ is my journey to declutter my mind, body and house. This blog started because I wanted to write about the coachings I got to deal with my AD(H)D and the things I learned there. I'll also write about being financially independent, how to get out of financial dept, and other things that help reduce the clutter in a world 
