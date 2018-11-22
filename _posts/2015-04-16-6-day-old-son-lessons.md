@@ -1,6 +1,6 @@
 ---
 published: true
-title: What my 6 day old son taught me about doing single tasking and preparation
+title: "What my 6 day old son taught me about doing single tasking and preparation"
 layout: post
 cover_url: /assets/posts/adhd.png
 position: 100
