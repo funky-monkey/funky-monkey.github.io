@@ -2,7 +2,9 @@
 published: true
 title: Learn to focus
 layout: post
-tags: [focus, add]
+tags:
+  - focus
+  - add
 cover_url: /assets/posts/stefan-cosma-362616-unsplash.jpg
 position: 100
 ---
