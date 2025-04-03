@@ -9,6 +9,7 @@ baseurl: "/"
 lang: en # site language (en/ja/zh-Hans/zh-Hant)
 color_scheme: github # this specifies color scheme for syntax highlighting
 twitter_username: sidneydekoning
+instagram_username: sidneydekoning
 
 # Build settings
 markdown: kramdown
